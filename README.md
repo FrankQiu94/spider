@@ -2,7 +2,7 @@
 
 记得连带 `package.json` 配置文件一块儿下载，然后在运行  
 
-	npm init
+	npm i
 
 安装的包为 `cheerio.js` ，一款能够在 `node.js` 上和 `jQuery` 一样操作 `DOM` 元素的类库。
 
